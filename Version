@@ -1,8 +1,3 @@
--- Gui to Lua
--- Version: 3.2
-
--- Instances:
-
 local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local UICorner = Instance.new("UICorner")
@@ -404,7 +399,7 @@ TextLabel_4.BorderSizePixel = 0
 TextLabel_4.Position = UDim2.new(0.257609218, 0, 0.146337226, 0)
 TextLabel_4.Size = UDim2.new(0.372752637, 0, 0.128215611, 0)
 TextLabel_4.Font = Enum.Font.Unknown
-TextLabel_4.Text = "Flee The Facility Hacker Role"
+TextLabel_4.Text = "Zibo"
 TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_4.TextScaled = true
 TextLabel_4.TextSize = 14.000
@@ -419,7 +414,7 @@ TextLabel_5.BorderSizePixel = 0
 TextLabel_5.Position = UDim2.new(0.306898832, 0, 0.213279441, 0)
 TextLabel_5.Size = UDim2.new(0.471331865, 0, 0.0641078278, 0)
 TextLabel_5.Font = Enum.Font.Unknown
-TextLabel_5.Text = "Flee the facility exploit menu"
+TextLabel_5.Text = "Flee the facility Exploit Menu"
 TextLabel_5.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_5.TextScaled = true
 TextLabel_5.TextSize = 14.000
@@ -848,7 +843,7 @@ local function BCQIPB_fake_script() -- ScreenGui.LocalScript
 
 	script.Parent.ScreenInsets = Enum.ScreenInsets.None
 	
-	script.Parent.Notification.Text = "Thank you for using YAFTFEM!"
+	script.Parent.Notification.Text = "Thank you for using Zibo"
 	task.wait(5)
 	script.Parent.Notification.Text = ""
 end
